@@ -14,5 +14,6 @@ A simple app that counts the amount of calories you insert into.
 
 ## Author
 
--Developed by Daniel Ferreira
--Taught by Brad Traversy - Modern JavaScript Course
+Developed by Daniel Ferreira
+
+Taught by Brad Traversy - Modern JavaScript Course
