@@ -10,7 +10,7 @@ A simple app that counts the amount of calories you insert into.
 
 ## Live Version
 
-[Calorie Counter](link)
+[Calorie Counter](https://caloriecounter.netlify.com/)
 
 ## Author
 
